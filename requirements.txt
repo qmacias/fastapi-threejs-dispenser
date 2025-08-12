@@ -1,0 +1,4 @@
+httpie==3.2.3
+pyclean==3.0.0
+fastapi[all]==0.111.0
+uvicorn[standard]==0.30.1
